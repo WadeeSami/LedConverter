@@ -12,7 +12,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		// read the file
-		String fileName = "1";
+		String fileName = "g9";
 		String line = null;
 		String finalResult = "";
 		try {
